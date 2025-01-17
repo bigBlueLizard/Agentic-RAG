@@ -1,0 +1,1 @@
+{'properties': {'concern': {'type': 'string', 'title': 'Concern'}, 'description': {'type': 'string', 'title': 'Description'}, 'page_url': {'type': 'string', 'title': 'Page Url'}}, 'type': 'object', 'required': ['concern', 'description', 'page_url'], 'title': 'FeedbackSchema'}

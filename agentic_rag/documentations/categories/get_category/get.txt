@@ -1,0 +1,1 @@
+Gets the details of a calendar.

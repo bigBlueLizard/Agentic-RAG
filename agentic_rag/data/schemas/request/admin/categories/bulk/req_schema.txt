@@ -1,0 +1,1 @@
+{'properties': {'category_id': {'anyOf': [{'type': 'integer'}, {'type': 'null'}], 'title': 'Category Id'}, 'offset': {'anyOf': [{'type': 'string'}, {'type': 'null'}], 'title': 'Offset'}, 'file': {'type': 'string', 'format': 'binary', 'title': 'File'}}, 'type': 'object', 'required': ['category_id', 'offset', 'file'], 'title': 'Body_bulk_upload_events_admin_categories_bulk_post'}

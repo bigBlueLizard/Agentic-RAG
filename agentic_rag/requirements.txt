@@ -1,0 +1,13 @@
+beautifulsoup4==4.12.3
+dspy==2.5.29
+duckduckgo_search==6.3.4
+fastapi==0.115.4
+langchain==0.3.7
+langchain_core==0.3.15
+langchain_google_genai==2.0.4
+pathway==0.15.2
+protobuf==5.28.3
+pydantic==2.7.4
+Requests==2.32.3
+SQLAlchemy==2.0.36
+unstructured_ingest==0.2.2

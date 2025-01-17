@@ -1,0 +1,1 @@
+Lets you search calendars given a 'query'. The query is what is searched and compared against the names of calendars in the database.

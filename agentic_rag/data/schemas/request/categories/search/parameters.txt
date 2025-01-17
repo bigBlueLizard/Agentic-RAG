@@ -1,0 +1,1 @@
+{'name': 'query', 'in': 'query', 'required': True, 'schema': {'type': 'string', 'title': 'Query'}}

@@ -1,0 +1,1 @@
+{'name': 'start', 'in': 'query', 'required': True, 'schema': {'type': 'string', 'format': 'date-time', 'title': 'Start'}}{'name': 'end', 'in': 'query', 'required': True, 'schema': {'type': 'string', 'format': 'date-time', 'title': 'End'}}{'name': 'group_size', 'in': 'query', 'required': True, 'schema': {'type': 'integer', 'title': 'Group Size'}}

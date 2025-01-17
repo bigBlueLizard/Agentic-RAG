@@ -1,0 +1,1 @@
+Unsubscribes the user from a category.

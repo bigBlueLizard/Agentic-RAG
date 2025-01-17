@@ -1,0 +1,1 @@
+Returns an array of all events present in a given calendar.

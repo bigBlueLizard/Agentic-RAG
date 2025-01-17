@@ -1,0 +1,1 @@
+{'name': 'event_id', 'in': 'query', 'required': True, 'schema': {'type': 'integer', 'title': 'Event Id'}}

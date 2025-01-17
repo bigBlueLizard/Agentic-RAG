@@ -1,0 +1,1 @@
+{'properties': {'plan_id': {'type': 'integer', 'title': 'Plan Id', 'description': 'Plan ID in our database'}}, 'type': 'object', 'required': ['plan_id'], 'title': 'CheckoutSession'}

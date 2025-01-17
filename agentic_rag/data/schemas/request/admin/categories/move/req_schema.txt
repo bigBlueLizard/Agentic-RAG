@@ -1,0 +1,1 @@
+{'properties': {'category_id': {'type': 'integer', 'title': 'Category Id'}, 'target_id': {'anyOf': [{'type': 'integer'}, {'type': 'null'}], 'title': 'Target Id'}}, 'type': 'object', 'required': ['category_id', 'target_id'], 'title': 'CategoryMoveRequest'}
