@@ -52,4 +52,5 @@ Here's a Step-by-Step Guide to run our Setup using Docker:
     ```
     localhost:5000/docs
     ```
+10. Set up front end folowing the ReadMe.md in front end folder
 
